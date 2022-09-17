@@ -1,0 +1,7 @@
+#trying to learn to code in github
+def main():
+    var = "Hello, World"
+    print (var)
+    return
+
+main()
